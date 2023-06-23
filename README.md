@@ -6,9 +6,9 @@
 
 <div align="center">
 
-# nonebot-plugin-example
+# nonebot-plugin-aidraw
 
-_✨ NoneBot 插件简单描述 ✨_
+_✨ 狠狠白嫖算力！ ✨_
 
 
 <a href="./LICENSE">
